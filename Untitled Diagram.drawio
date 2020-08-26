@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T03:31:46.726Z" agent="5.0 (Windows)" etag="s9FMklwbSJig3hy9ad7m" version="13.6.5" type="github">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-08-26T04:43:57.051Z" agent="5.0 (Windows)" etag="3mYKoatAPMOq1Laeat-U" version="13.6.5" type="github" pages="2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Proses_Bisnis_Order">
     <mxGraphModel dx="1155" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -84,6 +84,14 @@
         <mxCell id="9XL6SRJAWU4iaDGBNn17-24" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="490" width="90" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gLXXFQs3VMEuwPeMucDN" name="Proses_Sign_Up">
+    <mxGraphModel dx="866" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="cv4js2YP6Sj9S_z3QpxP-0" />
+        <mxCell id="cv4js2YP6Sj9S_z3QpxP-1" parent="cv4js2YP6Sj9S_z3QpxP-0" />
       </root>
     </mxGraphModel>
   </diagram>
